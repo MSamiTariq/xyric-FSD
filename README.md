@@ -48,12 +48,13 @@ The app allows users to create, update, delete, search, and paginate through ite
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/xyric-items.git
-   cd xyric-items
+   git clone https://github.com/MSamiTariq/xyric-FSD.git
+   cd xyric-FSD
 
 2. Start services (Postgres + pgAdmin):
 
    ```bash
+   cd backend
    docker-compose up -d
    ```
 
